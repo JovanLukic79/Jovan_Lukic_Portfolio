@@ -23,3 +23,17 @@ This repo is made up of two packages. The first one is "scorbot_control_2". This
 ## Demonstration
 ![robotic_arm_demo](https://github.com/JovanLukic79/scorbot_control_2/assets/115774118/fde7b4bf-d4aa-48ad-9057-2868b8ec43db)
 
+
+
+
+## Autonomous Ground Vehicle 
+
+A project intended for the student design completion IGVC. Sarted off by the American Society of Mechanical Engineer (ASME) Student chapter. This project would be in development between October 2019 - January 2021 until focus was shifted elsewhere. During my tenure working on the robotic platform, I started off with assisting in mechanical design of chassis assembly. Being directly involved in multiple design iterations. I verified my designs through the use of hand calculations. This was my first project as an undergrad and it really gave me insight to 'Designing For Manufacturing (DFM)', as well as seeing a design go from conept to product. One of the biggest lessons I learned from this project (aside from DMF), was how vehicle dynamics came into play. One of my earlier iterations had poor mass distribution resulted in the platform losing traction quite easily while turning (However this was later fixed during our re-design). Bellow I will post some of my work, paried with short descriptions.
+
+
+
+
+
+bgfbfgb
+
+
