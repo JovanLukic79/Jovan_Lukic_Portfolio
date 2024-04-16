@@ -43,6 +43,7 @@ A modular chassis design made with T-slot extrusions and acrylic sheets as cover
 My task was in this iteration was to design a concept for a spring shock absorber fitted with control arms, and power transmission between electric motor and wheel
 
 I was also tasked with the final editing of the entire assembly before being submitted for a formal design review
+
 ![AGV_1](https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/11f7f7a2-7c06-4d60-809a-ef3cf60f6cec)
 
 First iteration of the platform being tested
