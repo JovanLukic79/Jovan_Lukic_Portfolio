@@ -18,11 +18,11 @@ This repo describes one of my particular contribution of the overall platform wh
 
 ![IMG_1666](https://github.com/JovanLukic79/scorbot_control_2/assets/115774118/0d4ebff5-e54c-4485-bf71-09ed5fdbdc6d)
 
-## Description
+<ins>Description<ins/>
 
 This repo is made up of two packages. The first one is "scorbot_control_2". This package is where I defined my hardware interface for the robotic arm. In addition to that,"scorbot_control_2" consists of the robotic arm simulation pacakge named "gazebo.launch". The second package is "scorbot_moveit_2", was built using "moveit_setup_assistants". This contains "move_group.launch" the main node needed to communicate with the rest of ROS's control system. In addition to movegroup, this package would also provide moveit_rviz.launch file which woutld act as the main GUI needed to control your robotic arm. 
 
-## Demonstration
+<ins>Demonstration<ins/>
 ![robotic_arm_demo](https://github.com/JovanLukic79/scorbot_control_2/assets/115774118/fde7b4bf-d4aa-48ad-9057-2868b8ec43db)
 
 
