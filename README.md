@@ -32,6 +32,7 @@ A project intended for the student design completion IGVC. Sarted off by the Ame
 
 ![AGV_2](https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/44ff29ad-401e-44ec-9323-298e73cc5389)
 
+![IGVC_1_Iteration](https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/690f09d2-3724-4ee3-98cf-b43a1df4ccbb)
 
 ![AGV_1](https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/11f7f7a2-7c06-4d60-809a-ef3cf60f6cec)
 
