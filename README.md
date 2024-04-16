@@ -32,6 +32,8 @@ This repo is made up of two packages. The first one is "scorbot_control_2". This
 
 A project intended for the student design completion IGVC. Sarted off by the American Society of Mechanical Engineer (ASME) Student chapter. This project would be in development between October 2019 - January 2021 until focus was shifted elsewhere. During my tenure working on the robotic platform, I started off with assisting in mechanical design of chassis assembly. Being directly involved in multiple design iterations. I verified my designs through the use of hand calculations. This was my first project as an undergrad and it really gave me insight to 'Designing For Manufacturing (DFM)', as well as seeing a design go from conept to product. One of the biggest lessons I learned from this project (aside from DMF), was how vehicle dynamics came into play. One of my earlier iterations had poor mass distribution resulted in the platform losing traction quite easily while turning (However this was later fixed during our re-design). Bellow I will post some of my work, paried with short descriptions.
 
+<u>CAD Design<u/>
+
 ![IGVC_1_Iteration](https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/690f09d2-3724-4ee3-98cf-b43a1df4ccbb)
 
 First iteration design concept of a ground robotic platform designed by me and other student engineers
