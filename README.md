@@ -1,6 +1,6 @@
 # Jovan_Lukic_Portfolio
 
-Hi, My name is Jovan Lukic. I'm currently a volunteer 'Robotics Engineer' at a local startup. My current role is revolves around software development of an Unmanned Surface Vehicle (USV) used for oceanic cleanup. I'm creating this portfolio to show off my past work as an undergrad, as well as a professional. I like all things engineering, even though my current focus is in robotics i'm open to any and all industries. While I continue my volunteer work, I am looking for a formal position. With that said, for any future employer who is interested in my past/current work feel free to look over this portfolio. I'm am planning on continuing my learning so as I work on my side project, I will update my portfolio accordingly.
+Hi, My name is Jovan Lukic. I'm currently a volunteer 'Robotics Engineer' at a local startup. My current role revolves around software development of an Unmanned Surface Vehicle (USV) used for oceanic cleanup. I'm creating this portfolio to show off my past work as an undergrad, as well as a professional. I like all things engineering, even though my current focus is in robotics i'm open to any and all industries. While I continue my volunteer work, I am looking for a formal position. With that said, for any future employer who is interested in my past/current work feel free to look over this portfolio. I'm am planning on continuing my learning so as I work on my side project, I will update my portfolio accordingly.
 
 # Scorbot Hardware Interface
 
