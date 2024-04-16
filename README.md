@@ -66,6 +66,21 @@ A project intended for the student design completion IGVC. Sarted off by the Ame
 ![IGVC_2_Iteration](https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/d64f6c33-b63d-4f8c-bfd7-38e2dc6f24e7)
 
 - I was tasked with re-design of the entire platform assembly, this design was compared with other designs in a formal design review
+  
 - The project development during this project phase was during COVID period meaning we were constrained with parts we already had and machining was not an option resulting in some of the extrusions not being coincident with one another
+  
 - This design had ideal weight distribution with center mass being low and as close as possible to the drive wheels, resulting in better drive mechanics compare to the first prototype
-- However design was not chosen due to not meeting weight requirement 
+  
+- However design was not chosen due to not meeting weight requirement
+
+<ins>Manufacturing Documents<ins/>
+
+- Technical documents that I've created were used for the second and first iteration robotic platform
+  
+- Includes bill of materials used second iterative chassis design assembly as well as technical drawing for bracket manufacturing of the first design
+  
+- Not all documents from this project are included in this gallery
+  
+<img width="1225" alt="Screen Shot 2023-08-16 at 8 19 44 PM" src="https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/2a3efe55-015c-4b7a-b78b-5812d2e9375d">
+
+<img width="1227" alt="Screen Shot 2023-08-16 at 8 20 01 PM" src="https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/d40b7360-7fb6-4946-a9ec-1feaee15cdaf">
