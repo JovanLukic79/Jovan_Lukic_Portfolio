@@ -1,5 +1,7 @@
 # Jovan_Lukic_Portfolio
 
+Hi, My name is Jovan Lukic. I'm currently a volunteer 'Robotics Engineer' at a local startup. My current role is revolves around software development of an Unmanned Surface Vehicle (USV) used for oceanic cleanup. I'm creating this portfolio to show off my past work as an undergrad, as well as a professional. I like all things engineering, even though my current focus is in robotics i'm open to any and all industries. 
+
 # Scorbot Hardware Interface
 
 This project is a continuation of 'Project Cali' a mobile manipulator designed by students and staff of California State University Los Angeles (CSULA), and the members of the student organization 'American Society of Mechanical Engineers (ASME). Link: https://github.com/ASME-ground-robot/robot_cali. This platform is intended for reasearch, educational purposes, as well as design competitions. If you would like to read more about the overal project feel free to click on the link provided. I took part in development starting in May 2022, where I acted as a research assistant for a graduate level research, where I worked on developing this controller needed to manipulate the 'Scorbot ER III' robotic arm which was used in development of this platform . I then led further development of 'Project Cali' as a 'Project Lead' from September 2022 - May 2023, where I've done further work in navigation.
