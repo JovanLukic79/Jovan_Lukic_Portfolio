@@ -63,6 +63,8 @@ A project intended for the student design completion IGVC. Sarted off by the Ame
 - Redesigned due to poor mass distribution causing platform to loose traction when turning
 
 <ins>Design Iteration II<ins/>
+![IGVC_2_Iteration](https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/d64f6c33-b63d-4f8c-bfd7-38e2dc6f24e7)
+
 - I was tasked with re-design of the entire platform assembly, this design was compared with other designs in a formal design review
 - The project development during this project phase was during COVID period meaning we were constrained with parts we already had and machining was not an option resulting in some of the extrusions not being coincident with one another
 - This design had ideal weight distribution with center mass being low and as close as possible to the drive wheels, resulting in better drive mechanics compare to the first prototype
