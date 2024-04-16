@@ -36,27 +36,27 @@ A project intended for the student design completion IGVC. Sarted off by the Ame
 
 ![IGVC_1_Iteration](https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/690f09d2-3724-4ee3-98cf-b43a1df4ccbb)
 
-First iteration design concept of a ground robotic platform designed by me and other student engineers
+- First iteration design concept of a ground robotic platform designed by me and other student engineers
 
-My addition to this platform was the chassis frame, suspension and drive system
+- My addition to this platform was the chassis frame, suspension and drive system
 
-A modular chassis design made with T-slot extrusions and acrylic sheets as covering were used due to their low cost and manufacturability
+- A modular chassis design made with T-slot extrusions and acrylic sheets as covering were used due to their low cost and manufacturability
 
-My task was in this iteration was to design a concept for a spring shock absorber fitted with control arms, and power transmission between electric motor and wheel
+- My task was in this iteration was to design a concept for a spring shock absorber fitted with control arms, and power transmission between electric motor and wheel
 
-I was also tasked with the final editing of the entire assembly before being submitted for a formal design review
+- I was also tasked with the final editing of the entire assembly before being submitted for a formal design review
 
 <ins>Prototype Demonstration<ins/>
 
 ![AGV_1](https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/11f7f7a2-7c06-4d60-809a-ef3cf60f6cec)
 
-First iteration of the platform being tested
+- First iteration of the platform being tested
 
-Extrusions were cut to length, and was finished off with end-mill
+- Extrusions were cut to length, and was finished off with end-mill
 
-Brackets were originally purchased but the remainder were manufactured using a water jet cutter on sheet metal 
+- Brackets were originally purchased but the remainder were manufactured using a water jet cutter on sheet metal 
 
-Suspension system was ultimately not included due to time constraints
+- Suspension system was ultimately not included due to time constraints
 
-Redesigned due to poor mass distribution causing platform to loose traction when turning
+- Redesigned due to poor mass distribution causing platform to loose traction when turning
 
