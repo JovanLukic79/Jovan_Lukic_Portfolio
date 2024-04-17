@@ -34,7 +34,7 @@ This repo is made up of two packages. The first one is "scorbot_control_2". This
 
 A project intended for the student design completion IGVC. Sarted off by the American Society of Mechanical Engineer (ASME) Student chapter. This project would be in development between October 2019 - January 2021 until focus was shifted elsewhere. During my tenure working on the robotic platform, I started off with assisting in mechanical design of chassis assembly. Being directly involved in multiple design iterations. I verified my designs through the use of hand calculations. This was my first project as an undergrad and it really gave me insight to 'Designing For Manufacturing (DFM)', as well as seeing a design go from conept to product. One of the biggest lessons I learned from this project (aside from DMF), was how vehicle dynamics came into play. One of my earlier iterations had poor mass distribution resulted in the platform losing traction quite easily while turning (However this was later fixed during our re-design). Bellow I will post some of my work, paried with short descriptions.
 
-<ins>CAD Design<ins/>
+<ins>Design Iteration I<ins/>
 
 ![IGVC_1_Iteration](https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/690f09d2-3724-4ee3-98cf-b43a1df4ccbb)
 
@@ -44,7 +44,7 @@ A project intended for the student design completion IGVC. Sarted off by the Ame
 
 - A modular chassis design made with T-slot extrusions and acrylic sheets as covering were used due to their low cost and manufacturability
 
-- My task was in this iteration was to design a concept for a spring shock absorber fitted with control arms, and power transmission between electric motor and wheel
+- My task was to design chassis frame as well as include all susbsytems, components in the assembly
 
 - I was also tasked with the final editing of the entire assembly before being submitted for a formal design review
 
@@ -58,9 +58,9 @@ A project intended for the student design completion IGVC. Sarted off by the Ame
 
 - Brackets were originally purchased but the remainder were manufactured using a water jet cutter on sheet metal 
 
-- Suspension system was ultimately not included due to time constraints
+- Suspension system was ultimately not included due to time constraints (as well as the design was never going to work)
 
-- Redesigned due to poor mass distribution causing platform to loose traction when turning
+- Redesigned was ultimately needed due to poor mass distribution causing platform to loose traction when turning
 
 <ins>Design Iteration II<ins/>
 ![IGVC_2_Iteration](https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/d64f6c33-b63d-4f8c-bfd7-38e2dc6f24e7)
