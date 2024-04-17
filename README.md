@@ -32,7 +32,7 @@ This repo is made up of two packages. The first one is "scorbot_control_2". This
 
 ![AGV_2](https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/44ff29ad-401e-44ec-9323-298e73cc5389)
 
-<ins>Desclaimer<ins/>
+<ins>Desclaimer:<ins/>
 Before getting into the descritption, I would like to iterate that this was my first project working with cross-functioning teams as a junior undergraduate student. The quality of work presented here is not a good representation of what I currently produce. The work that I'm presenting was at a time when I (and many others) were still learning proper design techniques, and gaining intuition in project devlopment. With that said, the main take away of all this is to showcase a certain level of project completion, as well as systems level design in order to have a working platform. This proect was a part of my history, and I intend to showcase my early level work as an engineering student.
 
 
