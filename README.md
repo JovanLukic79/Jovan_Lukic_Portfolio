@@ -26,7 +26,27 @@ This repo is made up of two packages. The first one is "scorbot_control_2". This
 ![robotic_arm_demo](https://github.com/JovanLukic79/scorbot_control_2/assets/115774118/fde7b4bf-d4aa-48ad-9057-2868b8ec43db)
 
 
+# 'Cali' Outdoor Navigation
 
+This project is a continuation of 'Project Cali' a mobile manipulator designed by students and staff of California State University Los Angeles (CSULA), and the members of the student organization 'American Society of Mechanical Engineers (ASME). Link: https://github.com/ASME-ground-robot/robot_cali. This platform is intended for reasearch, educational purposes, as well as design competitions. If you would like to read more about the overal project feel free to click on the link provided. I took part in development starting in May 2022, where I acted as a research assistant for a graduate level research, where I worked on developing this controller needed to manipulate the 'Scorbot ER III' robotic arm which was used in development of this platform . I then led further development of 'Project Cali' as a 'Project Lead' from September 2022 - May 2023, where I've done further work in navigation. 
+
+<ins>Description</ins>
+
+This repo describes one of my particular contribution of the navigation system intended for outdoor navigation. It uses a GPS odometry in order to perform localizastion. The localizzation algorithim that was used was "ekf_localization", from the "robot_localization" package. A 'sensor fusion' based localization algorithim that is able to perform sensor fusion based localizastion using either IMU, Wheel, and GPS odometry to generate 2D-State estimation [2]. In this build, I configured our localization to use GPS, and IMU. "Navsat_transform" algorithim was also used in order to perform the actual sensor fusion, and to turn the GPS/IMU data into "/odometry/fix" messages in order for "ekf_localization" to subscribe too. I added a simulated world 'cpr_orchard_gazebo' provided by 'Clear Path Robotics', in order to simulate 'Cali' robot in an outdoor agricultrual environment. Lastly, sensor models provided by 'Hector_gazebo_pluggins" were provided to simulate GPS,IMU sensor data [5].
+
+I've also created a node that is able to send a waypoint to some specific location using cartesian coordinates. This doesn't serve much purpose but I decided to add it anyways. I also inteded to create my own coverage planner. Since i'm simulating 'Cali' rover in an 'Orchard field', I'd think it would've been fitting for 'Cali' to do some form of sweep/coverage planning. However, I just wanted to have this up so I could finally start doing projects in ROS2. With that said, the extent of this project is just to have 'robot_localization' configured to 'Project Cali', and to have it perform navigation (using '2D Nav goals') on simulation (Considering by the time I had it figured out, I already graduated and don't have access to the phyiscal rover).  
+
+<ins>Dependencies (Install):</ins>
+- 'Project Cali' Repo: https://github.com/ASME-ground-robot/robot_cali
+- 'Robot_Localization': https://github.com/cra-ros-pkg/robot_localization (git clone) or "sudo apt-get insatll ros-melodic-robot-localization"
+- Clear path Robotics 'cpr_orchard_gazebo" simulation world: https://github.com/clearpathrobotics/cpr_gazebo
+  
+<ins>Demonstration</ins>
+
+<ins>Desclaimer</ins>
+I needed to lower the fps, and cut the recorded demonstrations to 30 seconds in order to fit this GIF into this repo.
+
+![Navigation_demo(3)](https://github.com/JovanLukic79/cali_outdoor_nav/assets/115774118/fddcbc5d-a26d-4074-b853-151a522ddd3c)
 
 ## Autonomous Ground Vehicle 
 
