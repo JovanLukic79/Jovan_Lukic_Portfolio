@@ -10,7 +10,7 @@ This project is a continuation of 'Project Cali' a mobile manipulator designed b
 
 <ins>Scorbot Controls<ins/>
 
-Between May 2022 - May 2023 I took part in a graduate level research to provide the field of robotics with contribution in regards to 'Mobile Manipulators' and their use in industrial seeting. I initially started my work performing systems level testing, hardware component troubleshooting, and I later on moved to development. MY role then turn to creating the necessary controls scheme in order to manipulate a 6-DOF robotic arm the was integrated onto the platform. The specific model that I was working with was a 'Scorbot ER III' robotic arm. After some time, I was able to complete this side of the prokect with my work being presented down below.
+Between May 2022 - May 2023 I took part in a graduate level research to provide the field of robotics with contribution in regards to 'Mobile Manipulators' and their use in industrial seeting. I initially started my work performing systems level testing, hardware component troubleshooting, and I later on moved to development. My role then turn to creating the necessary controls scheme in order to manipulate a 6-DOF robotic arm the was integrated onto the platform. The specific model that I was working with was a 'Scorbot ER III' robotic arm. After some time, I was able to complete this side of the prokect with my work being presented down below.
 
 Project Link: https://github.com/JovanLukic79/scorbot_control_2
 
