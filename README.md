@@ -10,6 +10,8 @@ This project is a continuation of 'Project Cali' a mobile manipulator designed b
 
 <ins>Scorbot Controls<ins/>
 
+Between May 2022 - May 2023 I took part in a graduate level research to provide the field of robotics with contribution in regards to 'Mobile Manipulators' and their use in industrial seeting. I initially started my work performing systems level testing, hardware component troubleshooting, and I later on moved to development. MY role then turn to creating the necessary controls scheme in order to manipulate a 6-DOF robotic arm the was integrated onto the platform. The specific model that I was working with was a 'Scorbot ER III' robotic arm. After some time, I was able to complete this side of the prokect with my work being presented down below.
+
 Project Link: https://github.com/JovanLukic79/scorbot_control_2
 
 
@@ -31,7 +33,9 @@ This repo is made up of two packages. The first one is "scorbot_control_2". This
 
 # 'Cali' Outdoor Navigation
 
+Project Link: https://github.com/JovanLukic79/cali_outdoor_nav/blob/main/README.md
 
+As I was participating in research using this platform, I also led a team of 9 (nine) multi-disciplinary engineers in order to have this platform to compete in a student design competion. MY technical role was navigation, and I was tasked to develop the navigation system for this particular platform. The goal was for this platform to be able to travesre unknon terrain using GPS odmotery, and I was able to configure localization needed in order to do that. Bellow is the descriptoin of said system.
 
 <ins>Description</ins>
 
