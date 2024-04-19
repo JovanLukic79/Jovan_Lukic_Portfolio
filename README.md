@@ -33,7 +33,7 @@ This repo is made up of two packages. The first one is "scorbot_control_2". This
 
 # 'Cali' Outdoor Navigation
 
-Project Link: https://github.com/JovanLukic79/cali_outdoor_nav/blob/main/README.md
+Project Link: https://github.com/JovanLukic79/cali_outdoor_nav/tree/main
 
 As I was participating in research using this platform, I also led a team of 9 (nine) multi-disciplinary engineers in order to have this platform to compete in a student design competion. This was for my Student CAPSTONE project, and I was 'Project Lead'. My technical role was navigation, and I was tasked to develop the navigation system for this particular platform. The goal was for this platform to be able to travesre unknon terrain using GPS odmotery, and I was able to configure localization needed in order to do that. Bellow is the descriptoin of said system.
 
