@@ -31,6 +31,19 @@ This repo is made up of two packages. The first one is "scorbot_control_2". This
 ![robotic_arm_demo](https://github.com/JovanLukic79/scorbot_control_2/assets/115774118/fde7b4bf-d4aa-48ad-9057-2868b8ec43db)
 
 
+<ins>Navigation<ins/>
+
+In addition to developing a control scheme for our robotic arm, I performed Navigation testing as well. ROS's "NAV 1" was our navigation architecture of choice. We used ACML algorithim to perform localization, and LIDAR was used for odometry.
+
+
+![Nav Sim](https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/80b73e92-ca19-4557-af46-e2dbc8d5df23)
+
+Before navigation could even begin we needed to map out our operating area, this would serve as our 'global map'. A LIDAR was used to perform the SLAM, and "G-SLAM" was used in order to generate our gloabl map. In this project, I was involved with mapping of our operating area, and even though I don't have footage of the process. The above Image show's the result.
+
+![Nav Sim](https://github.com/JovanLukic79/Jovan_Lukic_Portfolio/assets/115774118/a27a0d51-c623-476a-9e1d-a1654b804614)
+
+The Above visual shows a simulation of our navigation mission. On the left display RVIZ GUI, which shows AMCL running along with a local costmap, local and global planners. The right shows the result on simulation using Gazebo
+
 # 'Cali' Outdoor Navigation
 
 Project Link: https://github.com/JovanLukic79/cali_outdoor_nav/tree/main
