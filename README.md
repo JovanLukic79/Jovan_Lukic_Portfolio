@@ -43,6 +43,8 @@ Before navigation could even begin we needed to map out our operating area, this
 
 The Above visual shows a simulation of our navigation mission. On the left display RVIZ GUI, which shows AMCL running along with a local costmap, local and global planners. The right shows the result on simulation using Gazebo
 
+
+
 # 'Cali' Outdoor Navigation
 
 Project Link: https://github.com/JovanLukic79/cali_outdoor_nav/tree/main
